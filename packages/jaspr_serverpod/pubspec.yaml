@@ -20,7 +20,8 @@ resolution: workspace
 
 dependencies:
   jaspr: ^0.22.0
-  serverpod: '>=2.3.0 <3.0.0'
-  serverpod_client: '>=2.3.0 <3.0.0'
-  shelf: ^1.4.0
-  web: ^1.0.0
+  jaspr: ^0.22.0
+  serverpod: ^3.4.3
+  serverpod_client: ^3.4.3
+  relic_core: ^1.2.0
+  web: ^1.0.0 
