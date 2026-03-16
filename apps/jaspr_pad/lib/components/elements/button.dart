@@ -71,7 +71,7 @@ class ButtonState extends State<Button> {
               [.text(component.icon!)],
             ),
           if (component.label == null && component.icon != null) .text(component.icon!),
-          if (component.label != null && component.iconAffinity == IconAffinity.left) .text(component.label!),
+          if (component.label != null && component.iconAffinity == IconAffinity.left).text(component.label!),
         ],
       ),
     );

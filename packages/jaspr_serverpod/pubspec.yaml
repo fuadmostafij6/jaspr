@@ -22,5 +22,5 @@ dependencies:
   jaspr: ^0.22.3
   serverpod: ^3.4.3
   serverpod_client: ^3.4.3
-  relic_core: ^1.2.0
+  relic_core:
   web: ^1.0.0 
